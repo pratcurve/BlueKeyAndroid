@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BlueKey</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_button">LogIn</string>
+    <string name="new_user_sign_up">New User? Sign Up</string>
+    <string name="prompt_name">Name</string>
+    <string name="login_text">Already a member? Login</string>
+    <string name="prompt_number">Mobile Number</string>
+    <string name="signup_button_text">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="show_password">Show Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lock_name">Lock Name</string>
+</resources>

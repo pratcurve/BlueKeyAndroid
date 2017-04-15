@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="36131ae9204e8c90de06d392b7f68c60b461ed84">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_852371ae05623d74a8af97fbfab377311e5178e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_4b41d0ea6f05ede1ee4a69f987e28acc665bd824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_c73b17f2cd522709f6a90a063705cfc565335e2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_4c2599e983eb5d945d9584bb58e18e2ab6775333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_dd9920a3442a2e61d785d8f1c0ed0859fb039a24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_85b923c29c729f0c15f73473d844a46c35c8c959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_f17d29bb0acbb5335e79718b3b6d54e3248daaa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_d84adefe12513ac7ce4258ac0f80635b8c9e06a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcb0ee4d3f8e3dfcf19e5b392165599299d6dee9">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_449424222c3b2e0053142d7761a0dae2aa6458c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_19b5b855a99ceab41c011bd2439c9559a6ea3446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_2efaa7635e5b456c62f5213270ba56805e07d759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_c92b7b0dbbd33593540d82c9b0ae5bcfc8cf498f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_220794aff885e6a716a28401a9c044bfb489a36d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_c1761cf80bded420e92a80933883bdb682c02036/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_746da244e47b885e2dc45cb6e93e711ab566f228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_2994a3016b53893e5b8d3a87a618f866505b946d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.0_583d4c4e42f49899293d86d3a04aab25dc29bb3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_bd01b5139d04f224b6d7b85a0845831d2999edf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_e501f1f559010d392f2ebaa090181864a1680dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_fb2e561fbd13d3baf979921cc898af66a296ea70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_64db441614961c57282dd003a8fc4b29c51101e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_b335237c91a21b1fe8208deadc851ea09bee5aff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_6323d49be68eea19cde2ecf8ddbc535b4ba5b138/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_baf341829d484287b01e09fc6190e75d2cc284e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/prateek/AndroidStudioProjects/BlueKey/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_d81f341c2740285c6013241a558fa20682cda146/classes.dex" />
+    </item>
+
+</items>
